@@ -1,6 +1,6 @@
 # Tic-Tac-Toe for Android
 
-A tic-tac-toe game app for Android devices built in Kotlin using Android Studio. The app is hosted on Firebase.
+A tic-tac-toe game for Android devices, built using Kotlin and Android Studio. The app is hosted on Firebase and allows users to play against each other online.
 
 ## Features
 
@@ -11,11 +11,8 @@ A tic-tac-toe game app for Android devices built in Kotlin using Android Studio.
 
 ## Getting Started
 
-To get started, clone the repository and import the project into Android Studio. Run the app on an emulator or physical device to start playing.
+To get started, clone the repository and import the project into Android Studio. You will need to set up a Firebase project and add the necessary configuration files to the project before you can run the app. Run the app on an emulator or physical device to start playing.
 
-## Deployment
-
-The app is deployed on Firebase and can be accessed through the Google Play Store.
 
 ## Built With
 
