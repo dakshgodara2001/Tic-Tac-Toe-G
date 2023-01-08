@@ -21,6 +21,9 @@ A tic-tac-toe game for Android devices, built using Kotlin and Android Studio. T
 
 To get started, clone the repository and import the project into Android Studio. You will need to set up a Firebase project and add the necessary configuration files to the project before you can run the app. Run the app on an emulator or physical device to start playing.
 
+## Deployment
+
+To deploy the app to the Google Play Store, you will need to create a signed APK and follow the standard release process.
 
 ## Built With
 
