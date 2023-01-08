@@ -3,12 +3,11 @@
 A tic-tac-toe game for Android devices, built using Kotlin and Android Studio. The app is hosted on Firebase and allows users to play against each other online.
 
 <p>
-<img src="https://github.com/dakshgodara2001/Tic-Tac-Toe-G/blob/main/images/Screenshot_20230107_211917.png" width="200" style="margin: 0 10px;">
  <img src="https://github.com/dakshgodara2001/Tic-Tac-Toe-G/blob/main/images/Screenshot_20230108_010138.png" width="200" style="margin: 0 10px;">
  <img src="https://github.com/dakshgodara2001/Tic-Tac-Toe-G/blob/main/images/Screenshot_20230108_010155.png" width="200" style="margin: 0 10px;">
  <img src="https://github.com/dakshgodara2001/Tic-Tac-Toe-G/blob/main/images/Screenshot_20230107_211957.png" width="200" style="margin: 0 10px;">
  <img src="https://github.com/dakshgodara2001/Tic-Tac-Toe-G/blob/main/images/Screenshot_202300107_211957.png" width="200" style="margin: 0 10px;">
- <img src="https://github.com/dakshgodara2001/Tic-Tac-Toe-G/blob/main/images/Screen%20Shot%202023-01-08%20at%205.10.28%20PM.png" width="600" style="margin: 0 10px;">
+ <img src="https://github.com/dakshgodara2001/Tic-Tac-Toe-G/blob/main/images/Screen%20Shot%202023-01-08%20at%205.10.28%20PM.png" width="800" style="margin: 0 10px;">
 </p>
 
 ## Features
