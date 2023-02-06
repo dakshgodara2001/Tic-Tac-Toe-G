@@ -2,7 +2,7 @@
 
 A tic-tac-toe game for Android devices, built using Kotlin and Android Studio. The app is hosted on Firebase and allows users to play against each other online.
 
-<p>
+<p align="center" >
  <img src="https://github.com/dakshgodara2001/Tic-Tac-Toe-G/blob/main/images/Screenshot_20230108_010138.png" width="200" style="margin: 0 20px;">
  <img src="https://github.com/dakshgodara2001/Tic-Tac-Toe-G/blob/main/images/Screenshot_20230108_010155.png" width="200" style="margin: 0 20px;">
  <img src="https://github.com/dakshgodara2001/Tic-Tac-Toe-G/blob/main/images/Screenshot_20230107_211957.png" width="200" style="margin: 0 20px;">
